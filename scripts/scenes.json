@@ -1,0 +1,50 @@
+[
+  {
+    "scene_number": 1,
+    "audio_text": "I'm not sure how many of you are struggling with student loans right now, but I was in the same boat until just a few months ago. $100,000 in debt and feeling like I'd never be able to pay it off.",
+    "comfyui_prompt": "A person staring at a stack of financial documents on their kitchen counter, with a mixture of despair and desperation on their face, 8k resolution, cinematic lighting",
+    "pillow_overlay_text": "$100K"
+  },
+  {
+    "scene_number": 2,
+    "audio_text": "But then I discovered an AI tool that completely changed the game. It's called... ( pause ) ...and it's been paying off my loans at a rate of $25,000 per month!",
+    "comfyui_prompt": "A futuristic robot holding a tablet with a calculator app open, surrounded by stacks of coins and financial documents, modern 3D business illustration",
+    "pillow_overlay_text": "$25000/mo"
+  },
+  {
+    "scene_number": 3,
+    "audio_text": "That's right, in just three short months, I was able to pay off my entire $100,000 debt. And the best part? It only took up about 10 minutes of my day.",
+    "comfyui_prompt": "A person sitting at a desk with a laptop open, looking relieved and happy, surrounded by financial charts and graphs on the screen",
+    "pillow_overlay_text": "Paid Off!"
+  },
+  {
+    "scene_number": 4,
+    "audio_text": "So how does it work? Well, this AI tool uses machine learning algorithms to analyze your financial data and make investment recommendations that are tailored specifically to your needs.",
+    "comfyui_prompt": "A robotic arm holding a tiny computer chip with code scrolling by on the screen, surrounded by gears and other tech-related elements",
+    "pillow_overlay_text": "AI Power"
+  },
+  {
+    "scene_number": 5,
+    "audio_text": "And the results speak for themselves. I've been able to save over $50% of my income each month, which has not only paid off my debt but also given me a nice cushion in case of emergencies.",
+    "comfyui_prompt": "A person holding a tablet with a budgeting app open, surrounded by stacks of cash and financial documents",
+    "pillow_overlay_text": "$50% Savings"
+  },
+  {
+    "scene_number": 6,
+    "audio_text": "Now I know what you're thinking... this all sounds too good to be true. But trust me, it's not.",
+    "comfyui_prompt": "A person looking skeptical and uncertain, surrounded by financial documents and charts",
+    "pillow_overlay_text": "But Wait..."
+  },
+  {
+    "scene_number": 7,
+    "audio_text": "As a special offer for my viewers, I've partnered with to give you an exclusive discount on your own copy of this game-changing AI tool.",
+    "comfyui_prompt": "A person holding a tablet with the AI tool's logo on the screen, surrounded by financial charts and graphs",
+    "pillow_overlay_text": "Get Your Copy Now!"
+  },
+  {
+    "scene_number": 8,
+    "audio_text": "So what are you waiting for? Like this video, subscribe to my channel, and leave a comment below with your own student loan success story. Let's take back control of our finances together!",
+    "comfyui_prompt": "A person holding up their laptop with the AI tool open on the screen, surrounded by stacks of cash and financial documents",
+    "pillow_overlay_text": "Like & Subscribe!"
+  }
+]

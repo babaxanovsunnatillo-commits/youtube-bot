@@ -1,0 +1,11 @@
+﻿OLLAMA_MODEL = "llama3.1"
+OLLAMA_URL = "http://localhost:11434"
+CHANNEL_TOPIC = "AI & Technology"
+CHANNEL_LANGUAGE = "English"
+VIDEO_LENGTH = "5-7 minutes"
+OUTPUT_DIR = "C:/Projects/youtube/output"
+ASSETS_DIR = "C:/Projects/youtube/assets"
+SCRIPTS_DIR = "C:/Projects/youtube/scripts"
+VIDEO_WIDTH = 1920
+VIDEO_HEIGHT = 1080
+FPS = 30

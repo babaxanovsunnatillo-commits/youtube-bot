@@ -1,0 +1,13 @@
+file 'C:/Projects/youtube/output/slide_01.png'
+duration 5.25
+file 'C:/Projects/youtube/output/slide_02.png'
+duration 5.25
+file 'C:/Projects/youtube/output/slide_03.png'
+duration 5.25
+file 'C:/Projects/youtube/output/slide_04.png'
+duration 5.25
+file 'C:/Projects/youtube/output/slide_05.png'
+duration 5.25
+file 'C:/Projects/youtube/output/slide_06.png'
+duration 5.25
+file 'C:/Projects/youtube/output/slide_06.png'
